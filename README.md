@@ -2,6 +2,6 @@
  ___
 
 ### Usage
-```python
+```bash
   python <script_name.py> --help
 ```
